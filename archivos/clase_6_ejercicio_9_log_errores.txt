@@ -1,0 +1,9 @@
+08/11/2024 16:38:00 - Error: No se encontró el archivo en la ruta especificada.
+08/11/2024 16:38:01 - Error: No tienes permisos para leer el archivo.
+08/11/2024 16:38:02 - Advertencia: El archivo está vacío y no se encontraron palabras para procesar.
+08/11/2024 16:38:03 - Error: La ruta especificada no es válida o no existe.
+08/11/2024 16:38:04 - Error: Ocurrió un problema al intentar leer el archivo.
+08/11/2024 16:38:05 - Error: El archivo contiene caracteres en un formato no soportado.
+08/11/2024 16:38:06 - Error: El archivo no parece ser un archivo de texto.
+08/11/2024 16:38:07 - Error: No se pudo escribir en el archivo de destino.
+08/11/2024 16:38:08 - Error inesperado: Ocurrió un problema no identificado al procesar los archivos.
